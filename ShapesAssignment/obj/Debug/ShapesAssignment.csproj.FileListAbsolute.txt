@@ -1,0 +1,7 @@
+D:\School\Spring 2024\ITP 236\ShapesAssignment\bin\Debug\ShapesAssignment.exe.config
+D:\School\Spring 2024\ITP 236\ShapesAssignment\bin\Debug\ShapesAssignment.exe
+D:\School\Spring 2024\ITP 236\ShapesAssignment\bin\Debug\ShapesAssignment.pdb
+D:\School\Spring 2024\ITP 236\ShapesAssignment\obj\Debug\ShapesAssignment.csproj.AssemblyReference.cache
+D:\School\Spring 2024\ITP 236\ShapesAssignment\obj\Debug\ShapesAssignment.csproj.CoreCompileInputs.cache
+D:\School\Spring 2024\ITP 236\ShapesAssignment\obj\Debug\ShapesAssignment.exe
+D:\School\Spring 2024\ITP 236\ShapesAssignment\obj\Debug\ShapesAssignment.pdb
