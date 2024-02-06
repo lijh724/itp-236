@@ -1,0 +1,7 @@
+D:\School\Spring 2024\ITP 236\EmployeePay\EmployeePay\EmployeePay\bin\Debug\EmployeePay.exe.config
+D:\School\Spring 2024\ITP 236\EmployeePay\EmployeePay\EmployeePay\bin\Debug\EmployeePay.exe
+D:\School\Spring 2024\ITP 236\EmployeePay\EmployeePay\EmployeePay\bin\Debug\EmployeePay.pdb
+D:\School\Spring 2024\ITP 236\EmployeePay\EmployeePay\EmployeePay\obj\Debug\EmployeePay.csproj.AssemblyReference.cache
+D:\School\Spring 2024\ITP 236\EmployeePay\EmployeePay\EmployeePay\obj\Debug\EmployeePay.csproj.CoreCompileInputs.cache
+D:\School\Spring 2024\ITP 236\EmployeePay\EmployeePay\EmployeePay\obj\Debug\EmployeePay.exe
+D:\School\Spring 2024\ITP 236\EmployeePay\EmployeePay\EmployeePay\obj\Debug\EmployeePay.pdb
