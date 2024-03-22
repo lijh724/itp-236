@@ -1,0 +1,7 @@
+C:\Users\snowi\Documents\Spring 2024\ITP 236\Collections Assignment\bin\Debug\Collections Assignment.exe.config
+C:\Users\snowi\Documents\Spring 2024\ITP 236\Collections Assignment\bin\Debug\Collections Assignment.exe
+C:\Users\snowi\Documents\Spring 2024\ITP 236\Collections Assignment\bin\Debug\Collections Assignment.pdb
+C:\Users\snowi\Documents\Spring 2024\ITP 236\Collections Assignment\obj\Debug\Collections Assignment.csproj.AssemblyReference.cache
+C:\Users\snowi\Documents\Spring 2024\ITP 236\Collections Assignment\obj\Debug\Collections Assignment.csproj.CoreCompileInputs.cache
+C:\Users\snowi\Documents\Spring 2024\ITP 236\Collections Assignment\obj\Debug\Collections Assignment.exe
+C:\Users\snowi\Documents\Spring 2024\ITP 236\Collections Assignment\obj\Debug\Collections Assignment.pdb
